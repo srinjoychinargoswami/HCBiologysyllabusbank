@@ -1,1 +1,17 @@
+# File excludes
+exclude:
+- README.md
+- Gemfile
+- Gemfile.lock
+
+plugins: 
+- jekyll-default-layout
+
+# markdown type
+markdown: redcarpet
+
 theme: jekyll-theme-architect
+
+# site settings
+url: 'https://srinjoychinargoswami.github.io/HCBiologysyllabusbank/'
+basurl: ''

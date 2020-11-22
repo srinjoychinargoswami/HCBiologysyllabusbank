@@ -1,8 +1,7 @@
 # File excludes
 exclude:
 - README.md
-- Gemfile
-- Gemfile.lock
+
 
 plugins: 
 - jekyll-default-layout

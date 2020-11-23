@@ -9,7 +9,7 @@ plugins:
 # markdown type
 markdown: redcarpet
 
-theme: jekyll-theme-architect
+theme: jekyll-theme-tactile
 
 # site settings
 url: 'https://srinjoychinargoswami.github.io/HCBiologysyllabusbank/'

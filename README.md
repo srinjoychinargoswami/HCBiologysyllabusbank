@@ -4,7 +4,7 @@ I am making this after being inspired by Computer Science majors and Current and
 
 In addition to making the syllabus for various courses available, I have attached a MEGA linked here with all the textbooks from the courses if they are available as PDF's online. I do apologize in advance if its not available for certain courses. I am working to procure all of them for all courses.
 
-I would like the most up to date syllabuses as possible meaning from Spring 2020 to Current or when the course was last taught with the professor who taught it. 
+I would like the most up to date syllabuses as possible meaning from Fall 2019-Spring 2020 to Current or when the course was last taught with the professor who taught it. 
   
 
 

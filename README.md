@@ -1,6 +1,6 @@
 This is a website with access to syllabi from all the Biology Courses (major Core, elective and Non-Major) and Co-requisite and collateral  courses towards the Biology Major. There are also biology major concentration track pages with all the classes needed for the particular tracks of the Biology Major: Biology Standard, Biology with a Concentration in behavioral neurobiology, Biology with concentration in Bioinformatics and Biology with a concentration in Biophysics. 
 
-I am making this after being inspired by Computer Science majors and Current and Former Hunter Students Richard Aguilar and, Jonathan Swift, Robert O'Conner and others who made a website with syllabus directory for Computer Science courses and the collteral courses at Hunter College. 
+I am making this after being inspired by Computer Science majors and Current and Former Hunter Students Richard Aguilar and, Jonathan Swift, Robert O'Conner and others who made a website with syllabus directory for Computer Science courses and the collateral courses at Hunter College and by the Chemistry Department at Hunter who have gave example syllabuses for their courses on their website.  
 
 
 
